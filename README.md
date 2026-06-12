@@ -49,7 +49,7 @@ REAL is a requirements engineering platform for adaptive learning that bridges t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/darkaengl/REAL.git
+   git clone https://github.com/DoubleBlinded1/REAL.git
    cd REAL
    ```
 
@@ -207,17 +207,7 @@ black .
 isort .
 ```
 
-## 📚 Research Publications
 
-If you use REAL in your research, please cite:
-```bibtex
-@software{real2024,
-  title={REAL: Requirements Engineering for Adaptive Learning},
-  author={[Your Name]},
-  year={2024},
-  url={https://github.com/darkaengl/REAL}
-}
-```
 
 ## 🔗 Related Projects
 
@@ -240,8 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**[Documentation](docs/) • [Examples](examples/) • [Issues](https://github.com/darkaengl/REAL/issues) • [Discussions](https://github.com/darkaengl/REAL/discussions)**
 
-Made with ❤️ for the autonomous systems research community
+Made with ❤️ for the Requirements Engineering research community
 
 </div>
